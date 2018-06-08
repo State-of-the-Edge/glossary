@@ -1,3 +1,20 @@
+# Open Glossary of Edge Computing [v0.8.2-Beta]
+
+* Version: v0.8.2-Beta
+* Date: June 6, 2018 11:01 AM Pacific Time
+* License: Apache 2.0
+
+## Overview
+
+The Open Glossary of Edge Computing is a freely-licensed, open source lexicon of terms related to edge computing. It has been built using a collaborative process and is designed for easy adoption by the entire edge computing ecosystem, including by open source projects, vendors, standards groups, analysts, journalists, and practitioners.
+
+The Open Glossary of Edge Computing seeks to provide the industry with a concise collection of terms related to the field of edge computing, curating common and accepted definitions into an openly licensed repository. The Open Glossary project uses a community-driven process to develop and improve upon this shared lexicon, offering a vendor-neutral platform with which to discuss compelling solutions offered by edge computing and the next generation Internet.
+
+This Open Glossary is presented under an Apache 2.0 open source license in order to encourage use and adoption. It is purposefully not owned or controlled by any one person, entity or vendor; it a collaborative effort, open to contributions from the entire community.
+
+The Open Glossary project is governed in an open, meritocratic fashion. The official version of the Open Glossary is available via a live Github repo. Proposed edits, clarifications and suggestions are made via "pull requests." Each pull request will be evaluated by the community for inclusion.
+
+## Glossary
 
 ### 3G, 4G, 5G
 
