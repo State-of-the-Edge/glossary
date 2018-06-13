@@ -1,4 +1,4 @@
-### README
+# Open Glossary of Edge Computing
 
 The [Open Glossary of Edge Computing](./edge-glossary.md) seeks to provide the industry with a concise collection of terms related to the field of edge computing, curating common and accepted definitions into an openly licensed repository. The Open Glossary project uses a community-driven process to develop and improve upon this shared lexicon, offering a vendor-neutral platform with which to discuss compelling solutions offered by edge computing and the next generation Internet.
 
