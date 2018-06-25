@@ -6,4 +6,4 @@ This Open Glossary is presented under an Apache 2.0 open source license in order
 
 The Open Glossary project is governed in an open, meritocratic fashion. The official version of the Open Glossary is available via a live Github repo. Proposed edits, clarifications and suggestions are made via "pull requests." Each pull request will be evaluated by the community for inclusion.
 
-[![Open Glossary of Edge Computing](https://www.stateoftheedge.com/wp-content/uploads/2018/06/open-glossary-cover-789x1024.png)](https://www.stateoftheedge.com/wp-content/uploads/2018/06/EdgeComputingLandscape.png)
+[![Open Glossary of Edge Computing](https://www.stateoftheedge.com/wp-content/uploads/2018/06/open-glossary-cover-789x1024.png)](https://www.stateoftheedge.com/wp-content/uploads/2018/06/Open_Glossary_Edge_Computing.pdf)
