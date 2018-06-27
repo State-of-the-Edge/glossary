@@ -16,6 +16,8 @@ The project's committers are, in alphabetical order:
 * Matt Trifiro, Vapor IO (mtrifiro@vapor.io)
 * Edward Vielmetti, Packet (ed@packet.net)
 
+## Technical Steering Committee
+
 The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project.The TSC voting members are initially the Project’s Committers.
 
 ## Guidelines
