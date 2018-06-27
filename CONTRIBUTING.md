@@ -1,24 +1,22 @@
 # Contributing
 
-The Open Glossary project uses a community-driven process governed by The Linux Foundation to develop and improve upon this shared lexicon, offering a vendor-neutral platform with which to create a shared vocabulary around edge computing and the next generation Internet. Contributions are welcome from all participants who abide by the project's purpose and charter.
+Everybody is invited to suggest changes, additions and improvements to the Open Glossary of Edge Computing. We employ a community-driven process governed by The Linux Foundation to develop and improve upon this shared lexicon. This glossary provides a vendor-neutral platform on which to organize a shared vocabulary around edge computing and the next generation Internet. Contributions are welcome from all participants who abide by the project's purpose and charter.
 
-## Contributors
+Anyone who wishes to make a contribution, may submit a GitHub issue or create a pull request.
 
-Anybody may make a contribution by submitting a GitHub issue or creating a pull request.
+## Project Committers
 
-## Committers
-
-Committers are Contributors who have earned the ability to modify (“commit”) glossary entries, source code, documentation or other technical or written artifacts in the project’s repository.
-
-The project's committers are, in alphabetical order:
+All issues and pull requests are evaluted by the Project Committers. The initial committers are, in alphabetical order:
 
 * Alex Marcham, NetworkArchitecture2020 (alex@NetworkArchitecture2020.com)
 * Matt Trifiro, Vapor IO (mtrifiro@vapor.io)
 * Edward Vielmetti, Packet (ed@packet.net)
 
+From time to time, the project will consider changing or expanding its committers.
+
 ## Technical Steering Committee
 
-The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project.The TSC voting members are initially the Project’s Committers.
+The project is overseen by a Technical Steering Committee (TSC), which is be responsible for all technical oversight of the open source Project. At the outset, the Project’s Committers make up the initial TSC.
 
 ## Guidelines
 
