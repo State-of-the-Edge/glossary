@@ -1,8 +1,8 @@
-# Open Glossary of Edge Computing [v0.8.2-Beta]
+# Open Glossary of Edge Computing [v0.9.0-Beta]
 
 * Version: v0.9.0-beta
 * Date: June 12, 2018 1:28 PM Pacific Time
-* License: Apache 2.0
+* License: Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)
 
 ## Overview
 
