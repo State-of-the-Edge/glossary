@@ -10,4 +10,4 @@ The Open Glossary is governed as a Linux Foundation open source project in a tra
 * To view a markdown version of the glossary, open the [edge-glossary.md](./edge-glossary.md) file
 * To view the most recent build of the PDF version of the glossary, click on the image below. (Note: The PDF version is built by hand from time to time, and is inevitably less up to date than the [markdown version](./edge-glossary.md)).
 
-[![Open Glossary of Edge Computing](https://www.stateoftheedge.com/wp-content/uploads/2018/06/open-glossary-cover-789x1024.png)](https://www.stateoftheedge.com/wp-content/uploads/2018/06/Open_Glossary_Edge_Computing.pdf)
+[![Open Glossary of Edge Computing](https://www.stateoftheedge.com/wp-content/uploads/2018/06/open-glossary-cover-789x1024.png)](https://edge.docsend.com/view/msw7pqn)
