@@ -4,7 +4,7 @@ The [Open Glossary of Edge Computing](./edge-glossary.md) seeks to provide a con
 
 This Open Glossary is presented under the Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA-4.0) in order to encourage use and adoption. Code contributions to the project are licensed under the Apache License, version 2.0 (Apache-2.0). It is purposefully not owned or controlled by any one person or vendor; it is a collaborative effort, open to contributions from the entire community.
 
-The Open Glossary of Edge Computing is governed as a Linux Foundation open source project in a transparent and meritocratic fashion. The official version of the Open Glossary is available via this live Github repo. Proposed edits, clarifications and suggestions are made by filing GitHub issues or creating "pull requests." Each issue, addition or suggested change will be evaluated by the community for inclusion.
+The Open Glossary is governed as a Linux Foundation open source project in a transparent and meritocratic fashion. The official version of the Open Glossary is available via this live Github repo. Proposed edits, clarifications and suggestions are made by filing GitHub issues or creating "pull requests." Each issue, addition or suggested change will be evaluated by the community for inclusion.
 
 * To contribute to the glossary, refer to our [Contributing Guide](./CONTRITUBTING.md)
 * To view a markdown version of the glossary, open the [edge-glossary.md](./edge-glossary.md) file
