@@ -1,6 +1,22 @@
 # Contributing
 
-This is a community-driven project. Dive in and help out!
+The Open Glossary project uses a community-driven process governed by The Linux Foundation to develop and improve upon this shared lexicon, offering a vendor-neutral platform with which to create a shared vocabulary around edge computing and the next generation Internet. Contributions are welcome from all participants who abide by the project's purpose and charter.
+
+## Contributors
+
+Anybody may make a contribution by submitting a GitHub issue or creating a pull request.
+
+## Committers
+
+Committers are Contributors who have earned the ability to modify (“commit”) glossary entries, source code, documentation or other technical or written artifacts in the project’s repository.
+
+The project's committers are, in alphabetical order:
+
+* Alex Marcham, NetworkArchitecture2020 (alex@NetworkArchitecture2020.com)
+* Matt Trifiro, Vapor IO (mtrifiro@vapor.io)
+* Edward Vielmetti, Packet (ed@packet.net)
+
+The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project.The TSC voting members are initially the Project’s Committers.
 
 ## Guidelines
 
