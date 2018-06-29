@@ -60,6 +60,11 @@ See also: [Cloud Computing](#cloud-computing)
 A system to provide on-demand access to a shared pool of computing resources, including network servers, storage, and computation services. Typically utilises a small number of large centralized data centers and regional data centers today.
 
 See also: [Centralized Data Center](#centralized-data-center)
+
+### Cloud-native Network Function (CNF)
+A Virtualized Network Function (VNF) built and deployed using cloud native technologies. These technologies include containers, service meshes, microservices, immutable infrastructure and declarative APIs that allow deployment in public, private and hybrid cloud environments through loosely coupled and automated systems.
+
+See also: [Virtualized Network Function (VNF)](#virtualized-network-function-vnf)
 ### Cloud Node
 
 A compute node, such as an individual server or other set of computing resources, operated as part of a cloud computing infrastructure. Typically resides within a centralized data center.
