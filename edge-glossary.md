@@ -77,9 +77,9 @@ An organisation which operates typically large-scale cloud resources comprised o
 See also: [Cloud Computing](#cloud-computing)
 ### Cloudlet
 
-In academic circles, this term refers to a mobility-enhanced public or private cloud at the infrastructure edge, as popularized by Mahadev Satyanarayanan of Carnegie Mellon university. In the context of CDNs such as Akamai, cloudlet refers to the practice of deploying self-serviceable applications at CDN nodes.
+In academic circles, this term refers to a mobility-enhanced public or private cloud at the infrastructure edge, as popularized by [Mahadev Satyanarayanan](https://en.wikipedia.org/wiki/Mahadev_Satyanarayanan) of Carnegie Mellon University. It is synonymous with the term [Edge Cloud](#edge-cloud) as defined in this glossary. It has also been used interchangeably with [Edge Data Center](#edge-data-center) and [Edge Node](#edge-node) in the literature. In a 3-tier computing architecture, the term "cloudlet" refers to the middle tier (Tier 2), with Tier 1 being the cloud and Tier 3 being a smartphone, wearable device, smart sensor or other such weight/size/energy-constrained entity. In the context of CDNs such as Akamai, cloudlet refers to the practice of deploying self-serviceable applications at CDN nodes.
 
-See also: [Edge Cloud](#edge-cloud)
+See also: [Edge Cloud](#edge-cloud), [Edge Data Center](#edge-data-center), [Edge Node](#edge-node)
 ### Co-Location
 
 The process of deploying compute, data storage and network infrastructure owned or operated by different parties in the same physical location, such as within the same physical structure. Distinct from Shared Infrastructure as co-location does not require infrastructure such as an edge data center to have multiple tenants or users.
@@ -87,7 +87,7 @@ The process of deploying compute, data storage and network infrastructure owned 
 See also: [Shared Infrastructure](#shared-infrastructure)
 ### Computational Offloading
 
-An edge computing use case where tasks are offloaded from an edge device to the infrastructure edge for remote processing. Computational offloading seeks, for example, performance improvements and energy savings for mobile devices by offloading computation to the infrastructure edge with the goal of minimizing task execution latency and mobile device energy consumption. Computational offloading also enables new classes of mobile applications that would require computational power and storage capacity that exceeds what the device alone is capable of employing (e.g., untethered Virtual Reality). In other cases, workloads may be offloaded from a centralized to an edge data center for performance.
+An edge computing use case where tasks are offloaded from an edge device to the infrastructure edge for remote processing. Computational offloading seeks, for example, performance improvements and energy savings for mobile devices by offloading computation to the infrastructure edge with the goal of minimizing task execution latency and mobile device energy consumption. Computational offloading also enables new classes of mobile applications that would require computational power and storage capacity that exceeds what the device alone is capable of employing (e.g., untethered Virtual Reality). In other cases, workloads may be offloaded from a centralized to an edge data center for performance. The term is also referred to as [cloud offload](https://www.sigmobile.org/pubs/getmobile/articles/Vol18Issue4_1.pdf) and [cyber foraging](https://www.morganclaypool.com/doi/abs/10.2200/S00447ED1V01Y201209MPC010) in the literature.
 
 See also: [Traffic Offloading](#traffic-offloading)
 ### Content Delivery Network (CDN)
