@@ -16,7 +16,7 @@ From time to time, the project will consider changing or expanding its committer
 
 ## Technical Steering Committee
 
-The project is overseen by a Technical Steering Committee (TSC), which is be responsible for all technical oversight of the open source Project. At the outset, the Project’s Committers make up the initial TSC.
+The project is actively seeking nomations for its Technical Steering Committee (TSC). The TSC is responsible for technical oversight of the open source Project, ensuring accuracy and fair play. If you would like to nominate yourself or someone else for the TSC, please
 
 ## Guidelines
 
@@ -30,6 +30,11 @@ The project is overseen by a Technical Steering Committee (TSC), which is be res
 - If you see anything you think can be improved, feel free to open an issue or, even, better submit your suggestions via a pull request.
 - Please title your pull requests appropriately, summing up what your commits are about.
 - For new terms, make sure that your entry doesn't already exist somewhere else in the glossary.
+
+Requests:
+
+- For glossary entry changes and additions, please raise separate pull requests for each entry. This makes it easier to discuss and shepherd updates in self-contained units.
+- Please provide links to third party uses that support your issue or pull request.
 
 ## Philosophy
 
