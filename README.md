@@ -10,4 +10,6 @@ The glossary is freely licensed under the terms of the [Creative Commons Attribu
 * To view a markdown version of the glossary, see [edge-glossary.md](./edge-glossary.md).
 * To view the most recent build of the PDF version of the glossary, click on the image below. (Note: The PDF version is built by hand from time to time, and is inevitably less up to date than the markdown version.
 
-[![Open Glossary of Edge Computing](https://www.stateoftheedge.com/wp-content/uploads/2018/06/open-glossary-cover-789x1024.png)](https://edge.docsend.com/view/msw7pqn)
+Click to view or download PDF:
+
+[![Open Glossary of Edge Computing](https://raw.githubusercontent.com/State-of-the-Edge/glossary/master/Open%20Glossary%20of%20Edge%20Computing%20Cover%20Art%202018-07-03_19-01-53.jpg)](https://edge.docsend.com/view/7rm4d3d)
