@@ -27,7 +27,7 @@ A network that connects subscribers and devices to their local service provider.
 See also: [Infrastructure Edge](#infrastructure-edge)
 ### Aggregation Edge Layer
 
-The layer of infrastructure edge one hop away from the access layer. Can exist as either a medium-scale data center in a single location or may be formed from multiple interconnected micro data centers to form a hierarchical topology with the access edge to allow for greater collaboration, workload failover and scalability than access edge alone.
+The layer of infrastructure edge one hop away from the access edge layer. Can exist as either a medium-scale data center in a single location or may be formed from multiple interconnected micro data centers to form a hierarchical topology with the access edge to allow for greater collaboration, workload failover and scalability than access edge alone.
 
 See also: [Access Edge Layer](#access-edge-layer)
 ### Base Station
