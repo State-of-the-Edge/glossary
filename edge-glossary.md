@@ -107,7 +107,7 @@ The layer of the service provider network which connects the access network and 
 See also: [Access Network](#access-network)
 ### Customer-Premises Equipment (CPE)
 
-The local piece of equipment such as a cable network modem which allows the subscriber to a network service to connect to the access network of the service provider. Typically one hop away from infrastructure edge computing resources.
+The local piece of equipment such as a cable network modem which allows the subscriber to a network service to connect to the access network of the service provider. Typically one hop away towards the end users from infrastructure edge computing resources.
 
 See also: [Access Network](#access-network)
 ### Data Center
