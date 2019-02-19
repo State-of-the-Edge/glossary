@@ -74,7 +74,7 @@ See also: [Edge Node](#edge-node)
 
 An evolution of the RAN that allows the functionality of the wireless base station to be split into two components: A Remote Radio Head (RHH) and a centralized BBU. Rather than requiring a BBU to be located with each cellular radio antenna, C-RAN allows the BBUs to operate at some distance from the tower, at an aggregation point, often referred to as a [Distributed Antenna System (DAS) Hub] (#distributed-antenna-system-das-hub). Co-locating multiple BBUs in an aggregation facility creates infrastructure efficiencies and allows for a more graceful evolution to Cloud RAN. In a C-RAN architecture, tasks performed by a legacy base station are often performed as VNFs operating on infrastructure edge micro data centers on general-purpose compute hardware. These tasks must be performed at high levels of performance and with as little latency as possible, requiring the use of infrastructure edge computing at the cellular network site to support them.
 
-See also: [Infrastructure Edge](#infrastructure-edge), [Distributed Antenna System (DAS) Hub] (#distributed-antenna-system-das-hub)
+See also: [Infrastructure Edge](#infrastructure-edge), [Distributed Antenna System (DAS) Hub](#distributed-antenna-system-das-hub)
 ### Cloud Service Provider (CSP)
 
 An organisation which operates typically large-scale cloud resources comprised of centralized and regional data centers. Most frequently used in the context of the public cloud. May also be referred to as a Cloud Service Operator (CSO).
