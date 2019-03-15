@@ -57,7 +57,7 @@ A large, often hyperscale physical structure and logical entity which houses lar
 See also: [Cloud Computing](#cloud-computing)
 ### Cloud Computing
 
-A system to provide on-demand access to a shared pool of computing resources, including network servers, storage, and computation services. Typically utilises a small number of large centralized data centers and regional data centers today.
+A system to provide on-demand access to a shared pool of computing resources, including network, storage, and computation services. Typically utilises a small number of large centralized data centers and regional data centers today.
 
 See also: [Centralized Data Center](#centralized-data-center)
 
