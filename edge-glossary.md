@@ -42,7 +42,7 @@ A component of the Base Station which is responsible for baseband radio signal p
 See also: [Cloud RAN (C-RAN)](#cloud-ran-c-ran)
 ### Central Office (CO)
 
-An aggregation point for telecommunications infrastructure within a defined geographical area where telephone companies historically located their switching equipment. Physically designed to house telecommunications infrastructure equipment but typically not suitable to house compute, data storage and network resources on the scale of an edge data center due to their inadequate flooring, as well as their heating, cooling, ventilation, fire suppression and power delivery systems. 
+An aggregation point for telecommunications infrastructure within a defined geographical area where telephone companies historically located their switching equipment. Physically designed to house telecommunications infrastructure equipment but typically not suitable to house compute, data storage and network resources on the scale of an edge data center due to their inadequate flooring, as well as their heating, cooling, ventilation, fire suppression and power delivery systems. In the case when the hardware is specifically designed for edge cases it can cope with the physical constraints of Central Offices.
 
 See also: [Central Office Re-architected as Data Center (CORD)](#central-office-re-architected-as-data-center-cord)
 ### Central Office Re-architected as Data Center (CORD)
