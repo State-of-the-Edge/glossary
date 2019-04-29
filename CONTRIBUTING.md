@@ -19,8 +19,18 @@ From time to time, the project will consider changing or expanding its committer
 The Techncical Steering Committee (TSC) is responsible for technical oversight of the open source Project, ensuring accuracy and fair play. The TSC consists of
 
 * Chair: Matt Trifiro, Vapor IO (mtrifiro@vapor.io)
-* Alex Marcham, NetworkArchitecture2020 (alex@NetworkArchitecture2020.com, heads up the Glossary and Taxonomy projects)
-* Wesley Reisz, Section (wesley@section.io, heads up the Landscape Project)
+* Alex Marcham, NetworkArchitecture2020 (alex@NetworkArchitecture2020.com)
+* Wesley Reisz, Section (wesley@section.io)
+
+## Working Groups
+
+Under the auspices of the Glossary project, there are two working groups:
+
+### The Taxonomy Project
+The Taxonomy project is led by Alex Marcham (alex@NetworkArchitecture2020.com). It seeks to build a taxonomical guide to edge computing that supports and informs the glossary.
+
+### Landscape Project
+The Landscape project is led by Wesley Reisz (wesley@section.io). It seeks to build an interactive landscape map to all of the entities and projects in the edge computing ecosystem.
 
 ## Guidelines
 
