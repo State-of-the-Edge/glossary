@@ -18,7 +18,7 @@ From time to time, the project will consider changing or expanding its committer
 
 The Techncical Steering Committee (TSC) is responsible for technical oversight of the open source Project, ensuring accuracy and fair play. The TSC consists of
 
-* Matt Trifiro, Vapor IO (mtrifiro@vapor.io, Chair)
+* Chair: Matt Trifiro, Vapor IO (mtrifiro@vapor.io)
 * Alex Marcham, NetworkArchitecture2020 (alex@NetworkArchitecture2020.com, heads up the Glossary and Taxonomy projects)
 * Wesley Reisz, Section (wesley@section.io, heads up the Landscape Project)
 
