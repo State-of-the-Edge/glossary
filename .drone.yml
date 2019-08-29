@@ -4,10 +4,10 @@ name: default
 steps:
   
 - name: Deploy
-  image: alpine
+  image: ubuntu
   commands:
-  - apk update
-  - apk add npm curl jq
+  - apt-get update
+  - apt-get install npm curl jq
   - npm install -g markdownlint-cli 
   - npm install -g markdown-pdf
   - markdown-pdf -o README.pdf -f Letter -r portrait README.md
