@@ -1,0 +1,14 @@
+kind: pipeline
+name: default
+
+steps:
+  
+- name: Deploy
+  image: alpine
+  commands:
+  - apk update
+  - apk add npm curl jq
+  - npm install -g markdownlint-cli 
+  - npm install -g markdown-pdf --ignore-scripts
+  - markdownlint README.md
+  - markdownlint lf-glossary.md
