@@ -16,5 +16,4 @@ steps:
     api_key: 
       from_secret: GH_RELEASE_TOKEN
     files: dist/*
-  when: 
-    event: tag
+ 
