@@ -4,14 +4,11 @@ name: default
 steps:
   
 - name: build
-  image: node:buster-slim
+  image: pandoc/latex
   commands:
-  - apt-get update
-  - apt-get install -y libfontconfig1 bzip2 phantomjs
-  - npm install -g markdown-pdf
   - mkdir -p dist
-  - markdown-pdf -o dist/README.pdf -f Letter -r portrait README.md
-  - markdown-pdf -o dist/edge-glossary.pdf -f Letter -r portrait edge-glossary.md
+  - pandoc README.md -s -o dist/README.pdf
+  - pandoc edge-glossary.md -s -o dist/edge-glossary.pdf
 
 - name: release
   image: plugins/github-release
