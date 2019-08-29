@@ -3,12 +3,21 @@ name: default
 
 steps:
   
-- name: Deploy
-  image: ubuntu
+- name: build
+  image: node:buster-slim
   commands:
   - apt-get update
-  - apt-get install -y npm curl jq libfontconfig1
-  - npm install -g markdownlint-cli 
+  - apt-get install -y libfontconfig1
   - npm install -g markdown-pdf
-  - markdown-pdf -o README.pdf -f Letter -r portrait README.md
-  - markdown-pdf -o lf-glossary.pdf -f Letter -r portrait edge-glossary.md
+  - mkdir -p dist
+  - markdown-pdf -o dist/README.pdf -f Letter -r portrait README.md
+  - markdown-pdf -o dist/edge-glossary.pdf -f Letter -r portrait edge-glossary.md
+
+- name: release
+  image: plugins/github-release
+  settings:
+    api_key: 
+      from_secret: GH_RELEASE_TOKEN
+    files: dist/*
+  when: 
+    event: tag
