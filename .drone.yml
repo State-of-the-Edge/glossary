@@ -9,6 +9,6 @@ steps:
   - apk update
   - apk add npm curl jq
   - npm install -g markdownlint-cli 
-  - npm install -g markdown-pdf --ignore-scripts
+  - npm install -g markdown-pdf
   - markdown-pdf -o README.pdf -f Letter -r portrait README.md
   - markdown-pdf -o lf-glossary.pdf -f Letter -r portrait lf-glossary.md
