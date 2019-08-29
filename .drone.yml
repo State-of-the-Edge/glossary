@@ -7,7 +7,7 @@ steps:
   image: node:buster-slim
   commands:
   - apt-get update
-  - apt-get install -y libfontconfig1
+  - apt-get install -y libfontconfig1 bzip2
   - npm install -g markdown-pdf
   - mkdir -p dist
   - markdown-pdf -o dist/README.pdf -f Letter -r portrait README.md
