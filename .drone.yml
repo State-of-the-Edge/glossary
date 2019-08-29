@@ -7,7 +7,7 @@ steps:
   image: ubuntu
   commands:
   - apt-get update
-  - apt-get install npm curl jq
+  - apt-get install -y npm curl jq
   - npm install -g markdownlint-cli 
   - npm install -g markdown-pdf
   - markdown-pdf -o README.pdf -f Letter -r portrait README.md
