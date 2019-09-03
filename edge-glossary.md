@@ -57,7 +57,7 @@ A large, often hyperscale physical structure and logical entity which houses lar
 See also: [Cloud Computing](#cloud-computing)
 ### Cloud Computing
 
-A system to provide on-demand access to a shared pool of computing resources, including network, storage, and computation services. Typically utilises a small number of large centralized data centers and regional data centers today.
+A system to provide on-demand access to a shared pool of computing resources, including network, storage, and computation services. Typically utilizes a small number of large centralized data centers and regional data centers today.
 
 See also: [Centralized Data Center](#centralized-data-center)
 
@@ -77,7 +77,7 @@ An evolution of the RAN that allows the functionality of the wireless base stati
 See also: [Infrastructure Edge](#infrastructure-edge), [Distributed Antenna System (DAS) Hub](#distributed-antenna-system-das-hub)
 ### Cloud Service Provider (CSP)
 
-An organisation which operates typically large-scale cloud resources comprised of centralized and regional data centers. Most frequently used in the context of the public cloud. May also be referred to as a Cloud Service Operator (CSO).
+An organization which operates typically large-scale cloud resources comprised of centralized and regional data centers. Most frequently used in the context of the public cloud. May also be referred to as a Cloud Service Operator (CSO).
 
 See also: [Cloud Computing](#cloud-computing)
 ### Cloudlet
@@ -170,9 +170,9 @@ See also: [Infrastructure Edge](#infrastructure-edge)
 A data center which is capable of being deployed as close as possible to the edge of the network, in comparison to traditional centralized data centers. Capable of performing the same functions as centralized data centers although at smaller scale individually. Because of the unique constraints created by highly-distributed physical locations, edge data centers often adopt autonomic operation, multi-tenancy, distributed and local resiliency and open standards. Edge refers to the location at which these data centers are typically deployed. Their scale can be defined as micro, ranging from 50 to 150 kW+ of capacity. Multiple edge data centers may interconnect to provide capacity enhancement, failure mitigation and workload migration within the local area, operating as a virtual data center.
 
 See also: [Virtual Data Center](#virtual-data-center)
-### Edge Internet Exchange
+### Edge Exchange
 
-An instance of internet exchange functionality being performed at an infrastructure edge data center. This function will typically be performed in the edge meet me room of an infrastructure edge data center, and may operate in a supplemental or hierarchical fashion with traditional centralized internet exchange points if a destination location is not present at the edge internet exchange. An edge internet exchange may be used in an attempt to improve end-to-end application latency compared with a centralized internet exchange.
+Pre-internet traffic exchange occuring at an infrastructure edge data center. This function will typically be performed in the edge meet me room of an infrastructure edge data center, and may operate in a supplemental or hierarchical fashion with traditional centralized internet exchange points if a destination location is not present at the edge exchange, as is the case with internet-bound traffic. An edge exchange may be used in an attempt to improve end-to-end application latency compared with a centralized internet exchange.
 
 See also: [Internet Exchange Point](#internet-exchange-point-ixp)
 ### Edge Meet Me Room
@@ -184,7 +184,7 @@ See also: [Interconnection](#interconnection)
 
 The system of network interconnections, typically dark or lit fiber, providing connectivity between infrastructure edge data centers and potentially other local infrastructure in an area. These networks due to their scale and most frequent location of operation can be considered metropolitan area networks, spanning a distinct geographical area typically located in an urban center.
 
-See also: [Edge Internet Exchange](#edge-internet-exchange)
+See also: [Edge Exchange](#edge-exchange)
 ### Edge Node
 
 A compute node, such as an individual server or other set of computing resources, operated as part of an edge computing infrastructure. Typically resides within an edge data center operating at the infrastructure edge, and is therefore physically closer to its intended users than a cloud node in a centralized data center.
@@ -207,7 +207,7 @@ A distributed computing concept where compute and data storage resource, as well
 See also: [Workload Orchestration](#workload-orchestration)
 ### Gateway Device
 
-A subcategory of the device edge, referring to devices on the device edge side of the last mile network which operate as gateways for other local devices, with the goal of aggregating and faciliating data transference between local devices, many of which are battery-operated and may operate for extended periods in a low-power state, and external entities such as a data analysis application operating inside an edge data center at the infrastructure edge.
+A subcategory of the device edge, referring to devices on the device edge side of the last mile network which operate as gateways for other local devices, with the goal of aggregating and facilitating data transference between local devices, many of which are battery-operated and may operate for extended periods in a low-power state, and external entities such as a data analysis application operating inside an edge data center at the infrastructure edge.
 
 See also: [Resource Constrained Device](#resource-constrained-device)
 ### Infrastructure Edge
@@ -260,6 +260,9 @@ See also: [Edge-Native Application](#edge-native-application)
 An application in which reduced latency improves performance, but which can still function if latency is higher than desired. Unlike a Latency Critical Application, exceeding latency targets will typically not result in application failure, though may result in a diminished user experience. Examples include image processing and bulk data transfers.
 
 See also: [Edge-Enhanced Application](#edge-enhanced-application)
+### Local Breakout
+
+The capability to put internet-bound traffic onto the internet at an edge network node, such as an edge data center, without requiring the traffic to take a longer path back to an aggregated and more centralized facility.
 ### Location Awareness
 
 The use of RAN data and other available data sources to determine with a high level of accuracy where a user is and where they may be located in the near future, for the purposes of workload migration to ensure optimum application performance. 
@@ -337,7 +340,7 @@ A measure of how well the network and data center infrastructure is serving a pa
 See also: [Edge Computing](#edge-computing)
 ### Radio Access Network (RAN)
 
-A wireless variant of the access network, typically referring to a cellular network such as 3G, 4G or 5G. The 5G RAN will be supported by compute, data storage and network resources at the infrastructure edge as it utilises NFV and C-RAN.
+A wireless variant of the access network, typically referring to a cellular network such as 3G, 4G or 5G. The 5G RAN will be supported by compute, data storage and network resources at the infrastructure edge as it utilizes NFV and C-RAN.
 
 See also: [Cloud-RAN (C-RAN)](#cloud-ran-c-ran)
 ### Regional Data Center
@@ -352,12 +355,12 @@ A subcategory of the device edge, referring to devices on the device edge side o
 See also: [Gateway Device](#gateway-device)
 ### Service Provider
 
-An organisation which provides customers with access to its network, typically with the goal of providing that customer access to the internet. A customer will usually connect to the access network of the service provider from their side of the last mile.
+An organization which provides customers with access to its network, typically with the goal of providing that customer access to the internet. A customer will usually connect to the access network of the service provider from their side of the last mile.
 
 See also: [Access Network](#access-network)
 ### Shared Infrastructure
 
-The use of a single piece of compute, data storage and network resources by multiple parties, for example two organisations each using half of a single edge data center, unlike co-location where each party possesses their own infrastructure.
+The use of a single piece of compute, data storage and network resources by multiple parties, for example two organizations each using half of a single edge data center, unlike co-location where each party possesses their own infrastructure.
 
 See also: [Co-Location](#co-location)
 ### Software Edge
@@ -392,7 +395,7 @@ See also: [Edge Data Center](#edge-data-center)
 
 A software-based network function operating on general-purpose compute resources which is used by NFV in place of dedicated physical equipment. In many cases, several VNFs will operate on an edge data center at the infrastructure edge.
 
-See also: [NFV](#nfv)
+See also: [Network Function Virtualization (NFV)](#network-function-virtualization)
 ### Workload Orchestration
 
 An intelligent system which dynamically determines the optimal location, time and priority for application workloads to be processed on the range of compute, data storage and network resources from the centralized and regional data centers to the resources available at both the infrastructure edge and device edge. Workloads may be tagged with specific performance and cost requirements which determines where they are to be operated as resources that meet them are available for use.
