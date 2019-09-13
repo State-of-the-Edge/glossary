@@ -1,5 +1,7 @@
 # Open Glossary of Edge Computing
 
+![https://raw.githubusercontent.com/lf-edge/glossary/master/Cover%20Art/OGECv2%20Cover%20Art%20small.jpg]
+
 The Linux Foundation's [Open Glossary of Edge Computing](./edge-glossary.md) project curates and defines terms related to the field of edge computing, collecting common and accepted definitions into an openly licensed repository. The Open Glossary project leverages a diverse community of contributors to collaborate on a shared lexicon, offering an organization- and vendor-neutral platform for advancing a common understanding of edge computing and the next generation Internet.
 
 The Open Glossary is governed as an open source project using a transparent and meritocratic process. Anybody can make additions, clarifications and suggestions by raising a GitHub issue or editing a branch and issuing a pull request. Each issue or pull request is evaluated by the community for inclusion. 
