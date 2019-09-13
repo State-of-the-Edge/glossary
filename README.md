@@ -12,4 +12,4 @@ The glossary is freely licensed under the terms of the [Creative Commons Attribu
 
 Click to view or download PDF:
 
-[![Open Glossary of Edge Computing](https://raw.githubusercontent.com/State-of-the-Edge/glossary/master/Open%20Glossary%20of%20Edge%20Computing%20Cover%20Art%202018-07-03_19-01-53.jpg)](https://edge.docsend.com/view/7rm4d3d)
+[Open Glossary of Edge Computing](https://github.com/lf-edge/glossary/blob/master/PDFs/OpenGlossaryofEdgeComputing_2019_v2.0.pdf)
