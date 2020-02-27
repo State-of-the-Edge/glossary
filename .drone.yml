@@ -1,0 +1,20 @@
+kind: pipeline
+name: default
+
+steps:
+  
+- name: build
+  image: pandoc/latex
+  commands:
+  - mkdir -p dist
+  - pandoc README.md -s -o dist/README.pdf
+  - pandoc edge-glossary.md -s -o dist/edge-glossary.pdf
+
+- name: release
+  image: plugins/github-release
+  settings:
+    api_key: 
+      from_secret: GH_RELEASE_TOKEN
+    files: dist/*
+  when:
+    event: tag
