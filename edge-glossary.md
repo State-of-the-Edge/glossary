@@ -61,10 +61,13 @@ A system to provide on-demand access to a shared pool of computing resources, in
 
 See also: [Centralized Data Center](#centralized-data-center)
 
-### Cloud-native Network Function (CNF)
-A Virtualized Network Function (VNF) built and deployed using cloud native technologies. These technologies include containers, service meshes, microservices, immutable infrastructure and declarative APIs that allow deployment in public, private and hybrid cloud environments through loosely coupled and automated systems.
+### [Cloud-native Network Function (CNF)](https://github.com/cncf/telecom-user-group/blob/master/whitepaper/cloud_native_thinking_for_telecommunications.md#1.4)
+A cloud native network function (CNF) is a cloud native application that implements network functionality. A CNF consists of one or more microservices and has been developed using Cloud Native Principles including immutable infrastructure, declarative APIs, and a “repeatable deployment process”.
+
+An example of a simple CNF is a packet filter that implements a single piece of network functionality as a microservice. A firewall is an example of a CNF which may be composed of more than one microservice (i.e. encryption, decryption, access lists, packet inspection, etc.).
 
 See also: [Virtualized Network Function (VNF)](#virtualized-network-function-vnf)
+
 ### Cloud Node
 
 A compute node, such as an individual server or other set of computing resources, operated as part of a cloud computing infrastructure. Typically resides within a centralized data center.
