@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Open Glossary of Edge Computing is a freely-licensed, open source lexicon of terms related to edge computing. It has been built using a collaborative process and is designed for easy adoption by the entire edge computing ecosystem, including by open source projects, vendors, standards groups, analysts, journalists, and practitioners.
+The Open Glossary of Edge Computing is a freely-licensed, open source lexicon of terms related to edge computing. It has been built using a collaborative process and is designed for easy adoption by the entire edge computing ecosystem, including by open source projects, vendors, standards groups, analysts, journalists, and practitioners. The Open Glossary is maintained by a working group under the LF Edge State of the Edge project.
 
 ## Glossary
 
