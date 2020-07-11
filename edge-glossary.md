@@ -1,4 +1,4 @@
-# Open Glossary of Edge Computing [v2.0.0]
+# Open Glossary of Edge Computing [v2.1.0]
 
 * Version: v2.1.0
 * Date: June 30, 2020 6:00 AM PDT
