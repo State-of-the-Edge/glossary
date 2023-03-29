@@ -14,7 +14,7 @@ The Open Glossary of Edge Computing is a freely-licensed, open source lexicon of
 
 3rd, 4th, and 5th generation cellular technologies, respectively. In simple terms, 3G represents the introduction of the smartphone along with their mobile web browsers; 4G, the current generation cellular technology, delivers true broadband internet access to mobile devices; the coming 5G cellular technologies will deliver massive bandwidth and reduced latency to cellular systems, supporting a range of devices from smartphones to autonomous vehicles and large-scale IoT. Edge computing at the infrastructure edge is considered a key building block for 5G.
 
-See also: [Multi-Access Edge Computing (MEC)](#multi-access-edge-computing)
+See also: [Multi-Access Edge Computing (MEC)](#multi-access-edge-computing-mec)
 
 ### Access Edge
 
@@ -209,7 +209,7 @@ See also: [Virtual Data Center](#virtual-data-center)
 
 Pre-internet traffic exchange occuring at an edge data center, often at or near the Access Edge. This function will typically be performed in the edge meet me room of an  edge data center, and may operate in a supplemental or hierarchical fashion with traditional centralized internet exchange points if a destination location is not present at the edge exchange, as is the case with internet-bound traffic. An edge exchange may be used in an attempt to improve end-to-end application latency compared with a regional or centralized internet exchange.
 
-See also: [Internet Exchange Point](#internet-exchange-point-ixp)
+See also: [Internet Exchange Point](#internet-exchange-point-ix-point-or-ixp)
 
 ### Edge Meet Me Room
 
@@ -378,7 +378,7 @@ See also: [Mobile Network Operator (MNO)](#mobile-network-operator-mno)
 
 A method of data center deployment which is designed for portability. High-performance compute, data storage and network capability is installed within a portable structure such as a shipping container which can then be transported to where it is required. These data centers can be combined with existing data centers or other modular data centers to increase the local resources available as required.
 
-See also: [Micro Modular Data Centr (MMDC)](#micro-modular-data-centr-mmdc)
+See also: [Micro Modular Data Centr (MMDC)](#micro-modular-data-center-mmdc)
 
 ### Multi-access Edge Computing (MEC)
 
@@ -460,13 +460,13 @@ See Also: [Hard Real Time](#hard-real-time), [Soft Real Time](#soft-real-time)
 
 A data center positioned in scale between a centralized data center and a micro-modular data center, which has been built to sufficient size and is conveniently located to serve an entire region. Physically further away from end users and devices than the Access Edge, but closer to them than a centralized data center. Also referred to as a metropolitan data center in some contexts. Part of traditional cloud computing.
 
-See also: [Cloud Computing](#cloud-computing), [Regional Edge](regional-edge)
+See also: [Cloud Computing](#cloud-computing), [Regional Edge](#regional-edge)
 
 ### Regional Edge
 
 A subcategory of the Service Provider Edge consisting of server-class infrastructure located in regional data centers which also tend to serve as major peering sites. Regional edge sites are commonly in the form of Multi-Tenant Colocation (MTCO) facilities owned by companies like Equinix and Digital Realty, but can also take the form of a backhaul facility owned by a telco network that has been upgraded to house server-class IT equipment. Regional Edge sites usually provide, also, a regional Internet Exchange (IX) point, where tenants can connect to other networks and reach nationwide Internet backbones. Large cloud providers, web-scale companies, CDNs and other enterprises place servers and storage in these facilities to reduce the latency and network hops that would otherwise be required to reach a centralized data center, but which do not require the ultra low-latencies available at the Access Edge or at the User Edge. A rich confluence of data passes through these locations. Edge computing resources in a regional data center can work in conjunction with resources at the Access Edge and the User Edge to deliver different tiers of latency. As a general rule, Regional Edge data centers are capable of supporting edge workloads that can tolerate latencies in the 30ms - 100ms range. 
 
-See also: [Access Edge](access-edge), [Service Provider Edge](service-provider-edge), [Regional Data Center](regional-data-center)
+See also: [Access Edge](#access-edge), [Service Provider Edge](#service-provider-edge), [Regional Data Center](regional-data-center)
 
 ### Resource Constrained Device
 
@@ -490,7 +490,7 @@ See also: [Regional Edge](#regional-edge), [Access Edge](#access-edge), [Infrast
 
 The use of a single piece of compute, data storage and network resources by multiple parties, for example two organizations each using half of a single edge data center, unlike co-location where each party possesses their own infrastructure.
 
-See also: [Co-Location](#co-location)
+See also: [Co-Location](#colocation)
 
 ### Smart Device Edge
 
@@ -505,7 +505,7 @@ A virtualized Programmable Logic Controller (PLC) that can be consolidated onto 
 ### Soft Real Time
 Associated with latency-sensitive applications, such as video streaming, where the application relies on low-latency networking to provide a good user experience but where a networking failure or delay will not cause a critical and potentially life-threatening malfunction. Applications with soft real time requirements are often delivered from the Service Provider Edge for convenience and economies of scale.
 
-See also: [Hard Real Time](hard-real-time)
+See also: [Hard Real Time](#hard-real-time)
 
 
 ### Throughput
@@ -552,13 +552,13 @@ See also: [On-Premises Data Center Edge](#on-premises-data-center-edge), [Smart 
 
 A superset of V2I which refers to V2I-like technologies that allow a connected or autonomous vehicle to connect to more than its infrastructure, including to other vehicles, streetside cabinets, and traffic devices.
 
-See also: [Vehicle 2 Infrastructure](#vehicel-2-infrastructure)
+See also: [Vehicle 2 Infrastructure](#vehicle-2-infrastructure-v2i)
 
 ### Vehicle 2 Infrastructure (V2I)
 
 The collection of technologies used to allow a connected or autonomous vehicle to connect to its supporting infrastructure such as an machine vision and route finding application operating in an edge data center at the infrastructure edge. Typically uses newer cellular communications technologies such as 5G or Wi-Fi 6 as its access network.
 
-See also: [Vehicle 2 Everything](#vehicel-2-everything)
+See also: [Vehicle 2 Everything](#vehicle-2-everything-v2x)
 
 
 ### Virtual Data Center
@@ -571,13 +571,13 @@ See also: [Edge Data Center](#edge-data-center)
 
 A software-based network function operating on general-purpose compute resources which is used by NFV in place of dedicated physical equipment. In many cases, several VNFs will operate on an edge data center at the infrastructure edge.
 
-See also: [Network Function Virtualization (NFV)](#network-function-virtualization)
+See also: [Network Function Virtualization (NFV)](#network-function-virtualization-nfv)
 
 ### Workload Orchestration
 
 An intelligent system which dynamically determines the optimal location, time and priority for application workloads to be processed on the range of compute, data storage and network resources from the centralized and regional data centers to the resources available at both the infrastructure edge and device edge. Workloads may be tagged with specific performance and cost requirements which determines where they are to be operated as resources that meet them are available for use.
 
-See also: [Software Edge](#software-edge)
+See also: [Management and Orchestration](#management-and-orchestration-mano)
 
 ### xHaul
 
