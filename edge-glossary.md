@@ -466,7 +466,7 @@ See also: [Cloud Computing](#cloud-computing), [Regional Edge](#regional-edge)
 
 A subcategory of the Service Provider Edge consisting of server-class infrastructure located in regional data centers which also tend to serve as major peering sites. Regional edge sites are commonly in the form of Multi-Tenant Colocation (MTCO) facilities owned by companies like Equinix and Digital Realty, but can also take the form of a backhaul facility owned by a telco network that has been upgraded to house server-class IT equipment. Regional Edge sites usually provide, also, a regional Internet Exchange (IX) point, where tenants can connect to other networks and reach nationwide Internet backbones. Large cloud providers, web-scale companies, CDNs and other enterprises place servers and storage in these facilities to reduce the latency and network hops that would otherwise be required to reach a centralized data center, but which do not require the ultra low-latencies available at the Access Edge or at the User Edge. A rich confluence of data passes through these locations. Edge computing resources in a regional data center can work in conjunction with resources at the Access Edge and the User Edge to deliver different tiers of latency. As a general rule, Regional Edge data centers are capable of supporting edge workloads that can tolerate latencies in the 30ms - 100ms range. 
 
-See also: [Access Edge](#access-edge), [Service Provider Edge](#service-provider-edge), [Regional Data Center](regional-data-center)
+See also: [Access Edge](#access-edge), [Service Provider Edge](#service-provider-edge), [Regional Data Center](#regional-data-center)
 
 ### Resource Constrained Device
 
